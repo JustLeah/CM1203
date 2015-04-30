@@ -1,0 +1,13 @@
+you,u
+any,ne
+anyone,ne1
+thanks,thx
+your,yr
+probably,prob
+people,ppl
+sorry,sry
+download,d/l
+upload,u/l
+with,w/
+without,w/o
+good,gd
